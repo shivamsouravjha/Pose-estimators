@@ -29,7 +29,7 @@ budget. Our model achieves state-of-the-art results on the MPII
 and LSP datasets. In addition, with a reduction of 3× in model
 size and complexity, we show no decrease in performance when
 compared to the original HourGlass network.
-# Skit -Gates 
+# Skip -Gates 
 ![img](https://img2020.cnblogs.com/blog/1033571/202009/1033571-20200907190733717-1742101000.png)
 
 # Feature Integration

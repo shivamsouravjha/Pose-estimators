@@ -1,5 +1,6 @@
 # Toward fast and accurate human pose estimation via soft-gated skip connections
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/toward-fast-and-accurate-human-pose/pose-estimation-on-leeds-sports-poses)](https://paperswithcode.com/sota/pose-estimation-on-leeds-sports-poses?p=toward-fast-and-accurate-human-pose)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/toward-fast-and-accurate-human-pose/pose-estimation-on-mpii-human-pose)](https://paperswithcode.com/sota/pose-estimation-on-mpii-human-pose?p=toward-fast-and-accurate-human-pose)
 # INTRODUCTION
 Being one of the most challenging computer vision problems with a multitude of applications, human pose estimation
 has been one of the primary research areas that the computer
